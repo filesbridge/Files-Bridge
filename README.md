@@ -19,12 +19,12 @@ pkg install python
 pip install flask
 ```
 
-Скопируй файл `file_bridge.py` в удобную директорию на телефоне, например `~/downloads`.
+Скопируй файл `files_bridge.py` в удобную директорию на телефоне, например `~/downloads`.
 
 ## Запуск
 
 ```
-python file_bridge.py
+python files_bridge.py
 ```
 
 При старте сервер выведет в консоль два адреса, например:
